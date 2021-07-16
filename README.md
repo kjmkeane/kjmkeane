@@ -1,8 +1,10 @@
 Hi, I’m @kjmkeane.
 
-I’m interested in poetry and poetics and am currently learning “Python Basics for Data Science” on ‘edX’.
+I’m interested in poetry and poetics. 
 
-You can reach me via kevinkeane@mac.com
+As an aid to my research, I am currently learning “Python Basics for Data Science” on ‘edX’.
+
+If you are exploring how Python can further research into poetry and should like to exchange thoughts and ideas, I can be reached via kevinkeane@mac.com
 
 <!---
 kjmkeane/kjmkeane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
