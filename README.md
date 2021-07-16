@@ -1,6 +1,6 @@
 Hi, I’m @kjmkeane.
 
-I’m interested in poetry and poetics and am currently learning Python 3.
+I’m interested in poetry and poetics and am currently learning “Python Basics for Data Science” on ‘edX’.
 
 You can reach me via kevinkeane@mac.com
 
